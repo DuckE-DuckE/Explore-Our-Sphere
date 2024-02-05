@@ -1,0 +1,11 @@
+body {
+    background-color: #FFFFE4
+}
+
+li{
+    color: red;
+}
+
+li::marker{
+    color: black;
+}
