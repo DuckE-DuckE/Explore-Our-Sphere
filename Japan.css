@@ -1,0 +1,13 @@
+body {
+    background-color: #FFFFE4
+}
+
+a#HOME-PAGE{  
+    outline-color: transparent;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+
+h1#Title{
+    color: #ffb7c5;
+}
