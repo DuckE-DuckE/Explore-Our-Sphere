@@ -3,11 +3,19 @@ body {
 }
 
 a#HOME-PAGE{  
-    outline-color: transparent;
-    text-decoration: none;
-    padding: 2px 1px 0;
+    font-family: inherit;
+    border: none;
+    outline: 1px dotted rgb(37, 37, 37);
+    outline-offset: -4px;
+    background: hsl(0deg 0% 75%);
+    box-shadow: inset -1px -1px #292929, inset 1px 1px #fff, inset -2px -2px rgb(158, 158, 158), inset 2px 2px #ffffff;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 5px 30px;
 }
 
 h1#Title{
+    font-size: 40px;
     color: #ffb7c5;
 }
